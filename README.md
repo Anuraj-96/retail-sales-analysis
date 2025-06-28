@@ -1,5 +1,5 @@
 # retail-sales-analysis
-End-to-end data analysis project using Python, MySQL and Tableau. From raw retail order data to cleaned insights, visualizations, and a professional dashboard highlighting sales performance and profitability metrics.
+End-to-end data analysis project using Python, MySQL and Tableau. From [raw retail order data](https://github.com/Anuraj-96/retail-sales-analysis/blob/main/orders.csv) to cleaned insights, visualizations, and a professional dashboard highlighting sales performance and profitability metrics.
 
 ## Project Overview
 To identify key sales insights, product performance, regional trends, and profit growth patterns from a retail dataset (2022–2023), and visualize the findings for strategic decisions.
@@ -13,7 +13,8 @@ To identify key sales insights, product performance, regional trends, and profit
 - Total Revenue  
 - Total Profit  
 - Total Orders  
-- Average Order Value
+- Average Order Value  
+- [SQL QUERIES](https://github.com/Anuraj-96/retail-sales-analysis/blob/main/Retail-orders%20sales%20analysis%20SQL%20queries.pdf)
 
 ## Key Charts in Tableau
 1. **Revenue vs Profit**
