@@ -28,12 +28,10 @@ These new columns made it easier to analyze: Revenue trends , Profit margins , D
 - MySql
 - Tableau
 
-## Dashboards
+## Key Insights:
 
- *Business Performance Dashboard* 
+### *Business Performance Dashboard* 
 <img width="1440" alt="Business Performance Dashboard" src="https://github.com/user-attachments/assets/8f9067d8-3b7f-4a9e-a5c2-20015df6f0bf" />
-
-### Key Insights:
 
 - 💰 Total Revenue: $11.08M | 📈 Total Profit: $1.04M | 🛒 Total Orders: 9,994
 
@@ -56,7 +54,7 @@ Most orders were via Standard Class (6K+ orders)
 
 
 
-*Sales and Performance Dashboard*
+### *Sales and Performance Dashboard*
 <img width="1438" alt="Sales and Performance Dashboard" src="https://github.com/user-attachments/assets/0302ee05-5acd-46ce-a421-b87d5feabaaa" />
 
 - Top Revenue Product: TEC-CO-10004722 contributed $245K
