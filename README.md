@@ -97,6 +97,19 @@ Technology: October 2023 ($296K)
 11. **Shipping Mode Analysis**
 12. **Month Over Month Sales Growth (2022 vs 2023)**
 
+
+## Python-driven Exploratory Data Analysis (EDA) & Outlier Treatment:
+In addition to the main Tableau dashboard, a detailed EDA was performed using Python (Pandas & Seaborn) to deeply understand sales patterns and distribution behaviors.
+
+EDA Highlights:  
+1. Generated summary statistics and cleaned data types for consistency.
+2. Created business-critical columns
+3. Used boxplots to detect outliers in cost_price, list_price, and quantity.
+4. Applied IQR-based filtering to produce a filtered dataset.  
+
+However, all explorable KPIs in the final dashboard were computed using the original dataset, ensuring no real transaction data was lost.  
+Saved as : Retail_orders_analysis_Filtered.ipynb
+
 ## Tableau Profile
 [BUSINESSPERFORMANCESUMMARY](https://public.tableau.com/app/profile/anuraj5859/viz/RetailSalesBusinessPerformanceDashboard/BUSINESSPERFORMANCESUMMARY)
 [SALESPROFITINSIGHTSDASHBOARD](https://public.tableau.com/app/profile/anuraj5859/viz/RETAILSALESDASHBOARD_17511095262380/SALESPROFITINSIGHTSDASHBOARD)
